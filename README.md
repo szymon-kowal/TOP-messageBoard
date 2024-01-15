@@ -1,3 +1,6 @@
+# [Live Preview](https://mb-sk.adaptable.app/)
+
+
 # Message Board Application
 
 A simple and interactive message board application where users can view and post messages. Built with React, TypeScript, and Express, this project showcases a full-stack development approach with a focus on functionality and user experience.
