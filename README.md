@@ -21,17 +21,19 @@ To run this application on your local machine:
    git clone https://github.com/szymon-kowal/TOP-messageBoard.git
    ```
 2. **Install Dependencies**:
-   **Warning: You need to do step 2 and 3 in both frontend and backend directory, first install dependencies, then run backend and frontend server !**
+
+   **Warning: You need to do step 2 and 3 in frontend and backend directories, first install dependencies in both files, then run backend and frontend server !**
+
    Navigate to the project directory and run:
    ```bash
    npm install
    ```
-3. **Start the Development Server**:
+4. **Start the Development Server**:
    ```bash
    npm run dev
    ```
    This will start both the React and Express servers.
-4. **Open the Application**:
+5. **Open the Application**:
    Access `http://localhost:3000` in your web browser to view the application.
 
 ## Application Features
