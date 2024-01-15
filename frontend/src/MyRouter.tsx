@@ -3,6 +3,9 @@ import Base from './components/Base';
 import IndexPage from './components/IndexPage';
 import NewPosts from './components/NewPosts';
 
+// Index page - Retrive the data from server
+// new page - add form to send data to server
+
 const MyRouter = createBrowserRouter([
 	{
 		path: '/',

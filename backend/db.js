@@ -1,9 +1,10 @@
 const db = [
 	{
-		id: 1,
+		text: 'Hello',
 		name: 'John Doe',
+		added: new Date(),
 	},
-	{ id: 2, name: 'Janet Doe' },
+	{ text: 'It`s a me', name: 'Janet Doe', added: new Date() },
 ];
 
 module.exports = db;
