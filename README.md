@@ -32,7 +32,8 @@ To run this application on your local machine:
    npm install
    ```
 
-   **Important:** That`s just runs the frontend server and backend app in different browser tabs, if you want to build app, move to step 5.
+   **Important:** That`s just runs the frontend server and backend app in different browser tabs, if you want to build app, move to step 5. If you want to call server on your machine, you also need to change variable in .env file in frontend
+ directory.
 3. **Start the Development Server**:
    ```bash
    npm run dev
