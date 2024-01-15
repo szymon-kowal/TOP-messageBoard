@@ -32,15 +32,18 @@ To run this application on your local machine:
    npm install
    ```
 
-   **Important:** That`s just runs the frontend server and backend app in different browser tabs, if you want to build app, move to step 6.
-4. **Start the Development Server**:
+   **Important:** That`s just runs the frontend server and backend app in different browser tabs, if you want to build app, move to step 5.
+3. **Start the Development Server**:
    ```bash
    npm run dev
    ```
    This will start both the React and Express servers.
-5. **Open the Application**:
+4. **Open the Application**:
+
    Access `http://localhost:3000` in your web browser to view the application.
-6. **Build the app**:
+
+5. **Build the app**:
+
    If you want to build the app, then you need to run this in frontend dir:
    ```bash
    npm run build
